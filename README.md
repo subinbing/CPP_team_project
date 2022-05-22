@@ -50,7 +50,7 @@ Python tkinter을 활용하여 로그인 및 회원가입 프로그램을 만든
 ---
 
 ### 5. 참고 문헌 및 자료
-[1] simplecpp, https://cafe.naver.com/simplecpp, (April 30, 2022)
+[1] simplecpp, https://cafe.naver.com/simplecpp, (April 30, 2022) <br>
 [2] w3schools, https://www.w3schools.com/CPP/cpp_classes.asp 
 [3] Microsoft, https://docs.microsoft.com/ko-kr/cpp/overview/visual-cpp-samples?view=msvc-170, (May 8, 2022)
 [4] tutorialspoint, https://www.tutorialspoint.com/cplusplus/cpp_standard_library.htm

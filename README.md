@@ -29,13 +29,16 @@ Python tkinter을 활용하여 로그인 및 회원가입 프로그램을 만든
 
 
 #### 3-2) 과제의 내용 
-
+##### 사용자가 계정에 로그인[1]을 시도한다. 이때 계정이 없다면 회원가입[2]을 한다.
+###### [1] 첫 번째 입력 칸에 ID, 두 번째 입력 칸에 Password를 입력하고 Login을 클릭한다. ID와 Password가 일치할 경우 “Login success”, 일치하지 않을 경우 “Login failed” 창을 띄운다.
+###### [2] 아래의 Create account를 클릭하고 입력 칸에 순서대로 Name, e-mail, ID 그리고 Password를 입력한다. 칸을 모두 채우지 않을 경우 “Try again” 창을 띄우며, 회원가입이 완료되면 “Account created” 창을 띄운다. 회원가입에 사용한 ID와 Password로 로그인[1]을 시도한다.
 
 ---
 
 ### 4. 결과물
 #### 4-1) 예상 결과물 
-<img width="193" alt="image" src="https://user-images.githubusercontent.com/87634136/169689366-cdc859f3-52bf-4ca6-8eff-69613fe5cd40.png">
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/87634136/169690287-f332652d-474f-4b1d-a47a-de758e1a779d.png">
+
 
 
 #### 4-2) 기대 효과 및 활용 방안

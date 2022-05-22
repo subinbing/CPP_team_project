@@ -25,7 +25,10 @@ Python tkinter을 활용하여 로그인 및 회원가입 프로그램을 만든
 ---
 
 ### 3. 과제 목표 및 내용
-#### 3-1) 평가기준 
+#### 3-1) 정량적/정성적 목표
+##### 정량적 목표
+
+##### 정성적 목표
 
 
 #### 3-2) 과제의 내용 
@@ -40,19 +43,23 @@ Python tkinter을 활용하여 로그인 및 회원가입 프로그램을 만든
 <img width="608" alt="image" src="https://user-images.githubusercontent.com/87634136/169690287-f332652d-474f-4b1d-a47a-de758e1a779d.png">
 
 
-
 #### 4-2) 기대 효과 및 활용 방안
+- C++을 이용한 MFC의 어플리케이션를 제작해 보며 C++에서 사용되는 함수와 클래스에 대해 이해할 수 있음 
+- 제작한 로그인 시스템에 기능을 확장 시켜 실제로 사용되는 애플리케이션에 적용시킬 수 있음
 
 ---
 
 ### 5. 참고 문헌 및 자료
-
+[1] simplecpp, https://cafe.naver.com/simplecpp, (April 30, 2022)
+[2] w3schools, https://www.w3schools.com/CPP/cpp_classes.asp 
+[3] Microsoft, https://docs.microsoft.com/ko-kr/cpp/overview/visual-cpp-samples?view=msvc-170, (May 8, 2022)
+[4] tutorialspoint, https://www.tutorialspoint.com/cplusplus/cpp_standard_library.htm
 
 ---
 
 ### 6. 수행일정(도표)
 |번호|내용|추진 일정|비고|
 |------|---|---|---|
-|1|주제 구상 및 선정|5.18.수|
-|2|과제 계획서 작성|5.22.일|
-|3|코드 구현|5.24.화|
+|1|주제 구상 및 선정|5.18.수|-|
+|2|과제 계획서 작성|5.22.일|-|
+|3|코드 구현|5.24.화|-|

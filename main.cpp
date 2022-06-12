@@ -82,7 +82,7 @@ int main() {
 #endif
 
 		if (img_color.empty()) {
-			cerr << "ºó ¿µ»óÀÌ Ä¸ÃÄµÇ¾ú½À´Ï´Ù.\n";
+			cerr << "ë¹ˆ ì˜ìƒì´ ìº¡ì³ë˜ì—ˆìŠµë‹ˆë‹¤.\n";
 			break;
 		}
 
@@ -137,3 +137,5 @@ int main() {
 	}
 	return 0;
 }
+
+
